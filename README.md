@@ -14,7 +14,11 @@ CS50 in Arabic lecture 4 overview
 
 - [CS50 notes](https://goo.gl/iKrACf/) By CS50 Staff. 
 
-3-***Solve*** cs50 pset4:
+3-***check*** [CS50 slides](http://cdn.cs50.net/2017/fall/lectures/4/lecture4.pdf) By CS50 Staff.
+
+4-***check*** [CS50 Source code](http://cdn.cs50.net/2017/fall/lectures/4/src4.pdf) By CS50 Staff.
+
+5-***Solve*** cs50 pset4:
 
 - [CS50 pest4](https://goo.gl/KYJc6y)(مترجم).
 
