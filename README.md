@@ -2,6 +2,10 @@ CS50 in Arabic lecture 4 overview
 ===
 
 
+<p align="center">
+  <img src="https://github.com/cs50inarabic/lecture4/blob/master/cs50.JPG" alt="CS50 in Arabic Students" height="30%" width="50%"/>
+  
+</p>
 
 1-***Watch*** [CS50 lecture 4](https://goo.gl/i4BG5w/). 
 
