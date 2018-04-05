@@ -10,7 +10,7 @@ CS50 in Arabic lecture 4 overview
 1-***Watch*** [CS50 lecture 4](https://www.youtube.com/watch?v=Zn8OJMYT-gc/). 
 
 2-***Read*** CS50 notes. 
-- [CS50 notes](https://drive.google.com/drive/u/0/folders/16RtOLTRLCgeJBE0Laz50u-lDoBW63dQf/) By CS50 in Arabic Staff (مترجم).
+- [CS50 notes](https://drive.google.com/file/d/1g3tX2zkqKejyOjSMFjbZz28L9w4octMG/view?usp=sharing) By CS50 in Arabic Staff (مترجم).
 
 - [CS50 notes](https://docs.cs50.net/2017/fall/notes/4/lecture4.html/) By CS50 Staff. 
 
@@ -20,7 +20,7 @@ CS50 in Arabic lecture 4 overview
 
 5-***Solve*** cs50 pset4:
 
-- [CS50 pest4](https://drive.google.com/drive/u/0/folders/1xB_KLs2XYkpXnFX9osWpDsz8Mz3wKIk9)(مترجم).
+- [CS50 pest4](https://drive.google.com/drive/folders/1xB_KLs2XYkpXnFX9osWpDsz8Mz3wKIk9?usp=sharing)(مترجم).
 
 - [CS50 pset4](https://docs.cs50.net/2018/x/psets/4/pset4.html).
 
